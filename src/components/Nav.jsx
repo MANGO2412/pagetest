@@ -6,7 +6,7 @@ export default function Nav(){
                <div className="flex items-center gap-4 h-16">
                   <div className="flex items-center gap-2">
                        <span><i className="fa-solid fa-phone"></i></span>
-                        <span>6644566212</span>
+                        <span>US WhatsApp: +1 346 393 5657</span>
                    </div>
                    <div  className="flex items-center gap-2">
                        <span><i className="fa-solid fa-envelope"></i></span>

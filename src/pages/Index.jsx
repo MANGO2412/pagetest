@@ -90,7 +90,7 @@ export default function Index(){
                 {/* the third information */}
                 <div className="bg-[#0A2A4A] text-white rounded-lg shadow-lg p-8  delay-[300ms] duration-[600ms] taos:translate-x-[-200px] taos:opacity-0" data-taos-offset="400">
                     <div className="grid md:grid-cols-[300px_1fr] gap-8  gap-8 items-center">
-                      <img src={Ivan_Charts} className="rounded-tl-3xl rounded-br-3xl object-cover" style={{width: "400px",height:"600px"}} alt=""  />
+                      <img src={Ivan_Charts} className="rounded-tl-3xl rounded-br-3xl object-cover" style={{width: "300px",height:"600px"}} alt=""  />
                             <div className="space-y-6">
                                <h2 className="text-2xl md:text-3xl font-bold text-[#78A9D0]">
                                 Benefits of Quantum Hair Analysis (QHA):

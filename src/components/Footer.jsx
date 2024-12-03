@@ -9,7 +9,7 @@ export default function Footer(){
                         Addresss
                     </h2>
                     <a href="mailto:customerInfo@positronradionics.com" className="text-gray-300 hover:text-white transition-colors">
-                        customerInfo@positronradionics.com
+                       info@copenlabs.com
                     </a>
                     <div className="flex gap-4 mt-4">
 
