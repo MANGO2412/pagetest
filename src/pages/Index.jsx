@@ -54,7 +54,7 @@ export default function Index(){
                       </h2>
                       <p className="text-[#507D9B] leading-relaxed">
                          Your hair carries important clues about your body's health. Through advanced techniques of quantum
-                         physics, Dr. Ivan can uncover hidden imbalances. After a comprehensive hair analysis, Dr. Ivan crafts
+                         physics, Dr. Nancy can uncover hidden imbalances. After a comprehensive hair analysis, Dr. Nancy crafts
                          proprietary tinctures that are specifically formulated to address the unique deficiencies and toxicities
                          found in your results. This powerful combination provides a personalized path to restored balance and
                          optimal wellness.
@@ -107,7 +107,7 @@ export default function Index(){
                                      <div>
                                        <h3 className="font-bold text-[#78A9D0] mb-2">A Personalized Approach to Healing:</h3>
                                        <p className="text-gray-300">
-                                         Each analysis results in a tailor-made wellness solution, as Dr. Ivan creates a custom tincture
+                                         Each analysis results in a tailor-made wellness solution, as Dr. Nancy creates a custom tincture
                                          specifically designed to address your unique needs. This personalized remedy supports your body in
                                          naturally restoring balance.
                                        </p>
@@ -122,7 +122,7 @@ export default function Index(){
                                      <div>
                                        <h3 className="font-bold text-[#78A9D0] mb-2">Holistic Support for Lasting Wellness:</h3>
                                        <p className="text-gray-300">
-                                         With Dr. Ivan's proprietary tinctures, you're not just masking symptoms; you're giving your body the
+                                         With Dr. Nancy's proprietary tinctures, you're not just masking symptoms; you're giving your body the
                                          tools it needs to heal from the inside out.
                                        </p>
                                      </div>  
