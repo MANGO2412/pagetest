@@ -99,7 +99,7 @@ export default function Index(){
                                     <div>
                                       <h3 className="font-bold text-[#78A9D0] mb-2">Pinpoint Hidden Imbalances:</h3>
                                       <p className="text-gray-300">
-                                        Quantum technology allows Dr. Ivan to detect subtle energy disturbances in your body, revealing organ,
+                                        Quantum technology allows Dr. Nancy to detect subtle energy disturbances in your body, revealing organ,
                                         gland and blood imbalances, mineral deficiencies, toxins and heavy metals, aura stagnation, chakra
                                         disturbances and other imbalances that may be affecting your health.
                                       </p>
