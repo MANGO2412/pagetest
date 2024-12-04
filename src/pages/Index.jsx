@@ -49,7 +49,7 @@ export default function Index(){
                         <span className="text-[#0A2A4A]">Personalized</span> Healing Tinctures
                       </h1>
                       <h2 className="text-xl text-[#0A2A4A]">
-                        Reveal Hidden Imbalances and Restore Harmony with Dr. Ivan's Quantum Hair Analysis
+                        Reveal Hidden Imbalances and Restore Harmony with Dr. Nancy's Quantum Hair Analysis
                         (QHA) & Custom Remedies.
                       </h2>
                       <p className="text-[#507D9B] leading-relaxed">
@@ -80,7 +80,7 @@ export default function Index(){
                           <div className="italic text-[#0A2A4A] text-center space-y-2">
                             <p>"Leave your worries behind.</p>
                             <p>I will guide you to vibrant health."</p>
-                            <p>- Dr. Ivan</p>
+                            <p>- Dr. Nancy</p>
                           </div>
                      </div>
                      <img src={Ivan_taking} alt=""   style={{width: "400px",height: "260px"}}  className="rounded-tl-3xl rounded-br-3xl object-cover" />
